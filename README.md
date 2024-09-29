@@ -1,5 +1,5 @@
 ```
-Implementing an elevator system using digital gates and systems.
+Implementing an 15 floor elevator system using digital gates and systems.
 
 components worked with: JK flipflops(74HC73),logic gates,Multiplexers(74HC157),comaparator(74HC85) and timer(555)
 ```
