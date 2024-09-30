@@ -1,4 +1,4 @@
-#
+### Digital design of elevator
 ```
 Implementing an 15 floor elevator system using digital gates and systems.
 
@@ -11,12 +11,13 @@ components worked with: JK flipflops(74HC73),logic gates,Multiplexers(74HC157),c
 
 Verilog code:
 https://github.com/Amoghbhat12/mini-projects/blob/main/module%20elevator_control.v
-
 #
+### Placer Pro
 ```
-Designing and implementing automatic block placer bot
+Designing and implementing automatic block placer machine
 Softwares used: Ardunio IDE,Thinker CAD,Autodesk Inventor,MIT app developer
 Components used: Ardunino mega 2500,Servo motor MG90S,MG995 , 12V-2A adapters, 12V DC motor
+techniques used : Hard coding using inverse kinematics and also controllable by app made in MIT app builder
 
 
 ```
