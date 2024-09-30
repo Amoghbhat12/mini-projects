@@ -15,7 +15,7 @@ https://github.com/Amoghbhat12/mini-projects/blob/main/module%20elevator_control
 ### Placer Pro
 ```
 Designing and implementing automatic block placer machine
-Softwares used: Ardunio IDE,Thinker CAD,Autodesk Inventor,MIT app developer![a8d2846a-d5a8-459d-849d-71bf3c710626](https://github.com/user-attachments/assets/d1cf1d38-da18-4ff4-a706-0118a582da72)
+Softwares used: Ardunio IDE,Thinker CAD,Autodesk Inventor,MIT app developer
 
 Components used: Ardunino mega 2500,Servo motor MG90S,MG995 , 12V-2A adapters, 12V DC motor
 techniques used : Hard coding using inverse kinematics and also controllable by app made in MIT app builder
