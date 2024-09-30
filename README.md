@@ -15,10 +15,10 @@ https://github.com/Amoghbhat12/mini-projects/blob/main/module%20elevator_control
 ### Placer Pro
 ```
 Designing and implementing automatic block placer machine
-Softwares used: Ardunio IDE,Thinker CAD,Autodesk Inventor,MIT app developer
+Softwares used: Ardunio IDE,Thinker CAD,Autodesk Inventor,MIT app developer![a8d2846a-d5a8-459d-849d-71bf3c710626](https://github.com/user-attachments/assets/d1cf1d38-da18-4ff4-a706-0118a582da72)
+
 Components used: Ardunino mega 2500,Servo motor MG90S,MG995 , 12V-2A adapters, 12V DC motor
 techniques used : Hard coding using inverse kinematics and also controllable by app made in MIT app builder
-
 
 ```
 <details >
@@ -30,3 +30,21 @@ techniques used : Hard coding using inverse kinematics and also controllable by 
 </details>
 Github repo:
 https://github.com/G-division-2022-2023-even/Repo-9/wiki
+#
+
+### Gender Classification using CNN 
+```
+Building Neural network using TensorFlow and keras.
+The model uses the RMSprop optimizer.
+and You are using binary cross-entropy as the loss function.
+Size of Data Set : 18K images
+Accuracy of Model: 86%
+```
+<details>
+<summary>Tesing and accuracy graph images</summary>
+
+<img src="https://github.com/user-attachments/assets/bddec9ba-634f-49a0-945f-30bc09e96893" width="700">
+<img src="https://github.com/user-attachments/assets/e818f593-ad36-436f-ba66-2248c489349f" width="400">
+<img src="https://github.com/user-attachments/assets/7876a9b8-0967-42da-aacc-2dd7b37e7a9f" width="400">
+</details>
+
