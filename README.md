@@ -35,7 +35,7 @@ https://github.com/G-division-2022-2023-even/Repo-9/wiki
 ### Gender Classification using CNN 
 ```
 Building Neural network using TensorFlow and keras.
-The model uses the RMSprop optimizer.
+last layer uses a sigmoid activation function to output a probability score for binary classification
 and You are using binary cross-entropy as the loss function.
 Size of Data Set : 18K images
 Accuracy of Model: 86%
