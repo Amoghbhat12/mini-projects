@@ -48,3 +48,11 @@ Accuracy of Model: 86%
 <img src="https://github.com/user-attachments/assets/7876a9b8-0967-42da-aacc-2dd7b37e7a9f" width="400">
 </details>
 
+
+### Hate speech detection 
+<summary> 
+
+
+
+  
+</summary>
