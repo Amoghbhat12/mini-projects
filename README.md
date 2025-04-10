@@ -50,9 +50,26 @@ Accuracy of Model: 86%
 
 
 ### Hate speech detection 
-<summary> 
+```
+This project focuses on detecting hate speech in text data using a hybrid model of **BERT** for contextual embeddings and **LSTM** for sequential understanding. The goal is to build a robust model capable of classifying social media posts/comments as hate or non-hate with high accuracy.
+```
+<details>
+<summary> Model Architecture</summary>
 
+- **Tokenizer:** BERT (`bert-base-uncased`)
+- **Embeddings:** Pre-trained BERT outputs (CLS token)
+- **Classifier:** Bidirectional LSTM followed by a dense layer
+- **Loss Function:** Binary Cross Entropy
+- **Optimizer:** Adam
+- **Metrics:** Accuracy, F1-score, Precision, Recall
+-   Preprocessing:
+  - Lowercasing
+  - Removal of stopwords and special characters
+  - Tokenization using BERT tokenizer
+</details>
+<details>
+<summary> Published Paper Certificate</summary>
+   <img src="https://github.com/user-attachments/assets/6219c2c7-b31a-486e-8136-601a3706906a" width="400">
+ 
+</details>
 
-
-  
-</summary>
